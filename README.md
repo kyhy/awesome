@@ -2,5 +2,5 @@
 My awesome list
 
 ### Lists
-+ [blogs] (blogs.md) list of awesome blogs
-
++ [blogs] (blogs.md)
++ [music] (music.md)
