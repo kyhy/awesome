@@ -1,6 +1,10 @@
 # Awesome Music
 > list of awesome music for awesome coding
 
+### Radio Stations
++ (Digitally Imported) [http://www.di.fm/]
++ (Soma FM) [http://somafa.com]
+
 ### Liquid DnB
 + (Maduk) [https://soundcloud.com/madukdnb/maduk-guestmix-bbc-radio-1]
 
