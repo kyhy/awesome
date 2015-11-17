@@ -2,6 +2,7 @@
 > list of awesome blogs of awesome programmers
 
 + [Zaheer Ahmed] (http://conceptf1.blogspot.com/)
++ [Addy Osmani] (http://addyosmani.com/blog/)
 + [Aaron Bieber] (http://blog.aaronbieber.com/)
 + [Swizee Teller] (http://swizec.com/blog/)
 + [Reginald Braithwaite] (http://raganwald.com/)
