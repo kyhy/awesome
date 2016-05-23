@@ -2,6 +2,7 @@
 My awesome list
 
 ### Lists
-+ [talks] (talks.md)
 + [blogs] (blogs.md)
++ [books] (books.md)
 + [music] (music.md)
++ [talks] (talks.md)
